@@ -20,4 +20,4 @@
 
 > objects: A pasta é uma parte fundamental do repositório, onde o Git armazena os objetos (blobs, trees, commits) que compõem o histórico do repositório. Os objetos são armazenados em formato comprimido.
 
-> packed-refs: O arquivo contém referências que são armazenadas em um formato mais eficiente e compacto do que os arquivos individuais no diretório "refs/".
+> packed-refs: O arquivo contém referências que são armazenadas em um formato mais eficiente e compacto do que os arquivos individuais no diretório "refs".
