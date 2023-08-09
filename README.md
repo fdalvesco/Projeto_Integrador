@@ -3,6 +3,7 @@
 #### Descrição do diretório .git
 
 #MEU WORK LOCAL
+#MEU REPOSITORIO REMOTO
 
 > Config: arquivo de configuração do Git que armazena diversas opções e ajustes para o repositório ou para o usuário.
 
