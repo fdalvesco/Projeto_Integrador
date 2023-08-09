@@ -2,6 +2,8 @@
 
 #### Descrição do diretório .git
 
+#MEU REPOSITÓRIO REMOTO
+
 > Config: arquivo de configuração do Git que armazena diversas opções e ajustes para o repositório ou para o usuário.
 
 > HEAD: ponteiro especial no Git que aponta para o último commit da branch atual em que você está trabalhando.
